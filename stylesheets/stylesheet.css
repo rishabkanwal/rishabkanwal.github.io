@@ -94,6 +94,20 @@ a {
     font-size: 1.75rem; } }
 
 .project-tagline {
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 0.7; }
+
+.project2-tagline {
+  margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 0.7; }
+
+.title-tagline {
+  font-size: 2rem;
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7; }
